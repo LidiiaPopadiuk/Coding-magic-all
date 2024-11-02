@@ -5,7 +5,7 @@
   "homepage": "https://LidiiaPopadiuk.github.io/Coding-magic-all",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /frontend-project-3/",
+    "build": "parcel build src/*.html --public-url /Coding-magic-all/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
